@@ -1,0 +1,18 @@
+C:\Users\LABORATORIO CISCO\Desktop\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\Requerimiento 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO CISCO\Desktop\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\Requerimiento 1.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO CISCO\Desktop\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\Requerimiento 1.AssemblyInfo.cs
+C:\Users\LABORATORIO CISCO\Desktop\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\Requerimiento 1.csproj.CoreCompileInputs.cache
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\Requerimiento 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\Requerimiento 1.AssemblyInfoInputs.cache
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\Requerimiento 1.AssemblyInfo.cs
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\Requerimiento 1.csproj.CoreCompileInputs.cache
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\bin\Debug\net6.0\Requerimiento 1.exe
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\bin\Debug\net6.0\Requerimiento 1.deps.json
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\bin\Debug\net6.0\Requerimiento 1.runtimeconfig.json
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\bin\Debug\net6.0\Requerimiento 1.dll
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\bin\Debug\net6.0\Requerimiento 1.pdb
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\Requerimiento 1.dll
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\refint\Requerimiento 1.dll
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\Requerimiento 1.pdb
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\Requerimiento 1.genruntimeconfig.cache
+E:\MELANIE\2 CUATRIMESTRE\PRACTICA 5\Requerimiento 1\Requerimiento 1\obj\Debug\net6.0\ref\Requerimiento 1.dll
